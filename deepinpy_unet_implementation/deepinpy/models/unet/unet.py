@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+# Code sourced from https://github.com/n0obcoder/UNet-based-Denoising-Autoencoder-In-PyTorch/blob/master/unet.py
 import torch
 
 from deepinpy.utils import utils
